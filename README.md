@@ -1,6 +1,9 @@
 # Webservices
 Code example Webservice Upload file by Web.py
 
+# Lib
+Install lib Web from http://webpy.org/
+
 # Hang ups
 A couple of things to watch out for:
 See fileupload.
